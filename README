@@ -1,0 +1,6 @@
+bandgraph - scale-space visualisation of time-series data
+
+Requires python-chaco to run. The sample data is Euro vs. Dollar
+exchange rates from fxhistoricaldata.com, no guarantee made as to
+accuracy.
+
